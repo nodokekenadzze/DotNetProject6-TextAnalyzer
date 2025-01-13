@@ -1,0 +1,13 @@
+# .NET და C#-ისთვის ტიპური იგნორები
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+.vscode/
+*.log
+
+# Git-ის იგნორები
+.DS_Store
+Thumbs.db
